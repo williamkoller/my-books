@@ -1,10 +1,10 @@
 # Meus livros
 
-Todos livros adquirdos na [amazon.com.br](amazon.com.br)
+Todos livros adquiridos na [amazon.com.br](amazon.com.br)
 
 - Aprendendo Node
 - Arquitetura Limpa
-- A regra eh nao ter regras
+- A regra eh nao ter regras (CEO da Netflix)
 - A Psicologia Financeira
 - Bitcoin Blockchain e muito dinheiro
 - Codigo Limpo
@@ -21,7 +21,7 @@ Todos livros adquirdos na [amazon.com.br](amazon.com.br)
 - Implementando Domain-Driven Design
 - Introducao a linguagem Go
 - Go em acao
-- Microsservicos prontos pra a producao
+- Microsservicos prontos para a producao
 - Minimalismo Digital
 - O guia do Mochileiro Python
 - O mitico homem-mes
